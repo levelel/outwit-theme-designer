@@ -1,0 +1,25 @@
+preset_color_schemes:
+  outwit_dark:
+    name: "几维暗色／Outwit Dark"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xe6e9ffff
+    shadow_color: 0x000000c8
+    label_color: 0x8a93d4ff
+    comment_text_color: 0x7d88d5ff
+    border_color: 0x202753ff
+    back_color: 0x161a3aff
+    candidate_text_color: 0xdfe2ffff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x212856ff
+    hilited_shadow_color: 0x00000066
+    hilited_candidate_text_color: 0x181534ff
+    hilited_candidate_border_color: 0x2737a6ff
+    hilited_candidate_back_color: 0x8d7bffff
+    hilited_candidate_shadow_color: 0x00000022
+    hilited_label_color: 0x40477bff
+    hilited_comment_text_color: 0x2e3565ff
+    hilited_mark_color: 0xff7ad9ff
+    nextpage_color: 0x7d88d5ff
+    prevpage_color: 0x6a74ceff
+
