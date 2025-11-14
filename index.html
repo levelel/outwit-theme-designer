@@ -4,8 +4,37 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>几维 Outwit 输入法主题设计工具</title>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/site-shell.css" />
   </head>
   <body>
+    <header class="site-header">
+      <div class="inner">
+        <a class="site-brand" href="https://outwitapp.com" target="_blank" rel="noreferrer">
+          <img src="/logo-circling.svg" alt="几维输入法 logo" />
+          <span>几维输入法 · Outwit IME</span>
+        </a>
+        <span class="site-title">主题设置工具</span>
+        <nav class="site-nav">
+          <a href="https://github.com/levelel/outwit-project-index" target="_blank" rel="noreferrer">几维开源项目</a>
+          <a href="/guide.html" target="_blank" rel="noreferrer">使用指南</a>
+          <a
+            href="https://github.com/levelel/outwit-theme-designer"
+            target="_blank"
+            rel="noreferrer"
+            class="icon-link"
+            aria-label="Theme Designer GitHub"
+            title="Theme Designer GitHub"
+          >
+            <svg viewBox="0 0 24 24" role="img" aria-hidden="true">
+              <path
+                d="M12 .5C5.649.5.5 5.649.5 12c0 5.088 3.292 9.397 7.864 10.918.575.108.785-.253.785-.561 0-.277-.01-1.012-.016-1.988-3.2.695-3.877-1.542-3.877-1.542-.523-1.329-1.277-1.684-1.277-1.684-1.044-.714.079-.699.079-.699 1.154.081 1.762 1.186 1.762 1.186 1.027 1.761 2.695 1.252 3.352.957.104-.744.402-1.252.73-1.54-2.554-.29-5.238-1.277-5.238-5.683 0-1.255.448-2.281 1.183-3.086-.119-.29-.513-1.457.112-3.038 0 0 .965-.309 3.164 1.179a10.93 10.93 0 0 1 2.882-.387 10.9 10.9 0 0 1 2.882.387c2.199-1.488 3.162-1.179 3.162-1.179.627 1.581.234 2.748.115 3.038.737.805 1.183 1.831 1.183 3.086 0 4.417-2.689 5.39-5.252 5.675.414.358.78 1.062.78 2.14 0 1.545-.014 2.793-.014 3.17 0 .311.207.674.791.56C20.21 21.394 23.5 17.085 23.5 12c0-6.351-5.149-11.5-11.5-11.5Z"
+              />
+            </svg>
+          </a>
+        </nav>
+      </div>
+    </header>
     <div id="app"></div>
     <script type="module" src="/src/main.ts"></script>
   </body>

@@ -1,0 +1,169 @@
+:root {
+  color-scheme: dark;
+  --bg: #121212;
+  --text: rgba(255, 255, 255, 0.92);
+  --label: var(--text);
+  --comment: rgba(255, 255, 255, 0.65);
+  --accent: #4caf50;
+  --accent-text: #ffffff;
+  --panel: rgba(255, 255, 255, 0.04);
+  --panel-border: rgba(255, 255, 255, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  backdrop-filter: blur(12px) saturate(140%);
+  background: color-mix(in srgb, var(--bg) 82%, transparent);
+  border-bottom: 1px solid var(--panel-border);
+}
+
+.site-header .inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.site-brand {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.site-brand img {
+  width: 36px;
+  height: 36px;
+  border-radius: 12px;
+}
+
+.site-brand span {
+  line-height: 1.2;
+}
+
+.site-title {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--comment);
+  letter-spacing: 0.1em;
+}
+
+.site-nav {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--panel-border);
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.site-nav a:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: var(--accent);
+}
+
+.site-nav a.icon-link {
+  padding: 0.35rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+}
+
+.site-nav a.icon-link svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+.guide-main {
+  max-width: 880px;
+  margin: 2.5rem auto 3.5rem;
+  padding: 0 1.5rem;
+}
+
+.guide-main h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.guide-lead {
+  color: var(--comment);
+  margin-bottom: 2rem;
+}
+
+.guide-section {
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: 18px;
+  padding: 1.75rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.25);
+}
+
+.guide-section h2 {
+  font-size: 1.25rem;
+  margin-top: 0;
+}
+
+.guide-section ol {
+  padding-left: 1.25rem;
+  margin: 0.75rem 0 0;
+}
+
+.guide-section li + li {
+  margin-top: 0.6rem;
+}
+
+.guide-section a {
+  color: var(--accent);
+}
+
+.guide-back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 2rem;
+  color: var(--comment);
+  text-decoration: none;
+}
+
+.guide-back-link:hover {
+  text-decoration: underline;
+}
+

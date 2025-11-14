@@ -41,5 +41,5 @@ export const DEFAULT_THEME: Theme = {
   shadow_offset_x: 0,
   shadow_offset_y: 6,
   round_corner: 10,
-  padding: 12
+  padding: 4
 };

@@ -108,6 +108,17 @@
   const CHIP_PAD_X = 8;
   let BAR_HEIGHT = $derived(Math.max(28, Math.round(fontSize * 2.2)));
 
+  function numericOr(value, fallback) {
+    if (typeof value === "number" && Number.isFinite(value)) return value;
+    if (typeof value === "string") {
+      const parsed = Number(value);
+      if (!Number.isNaN(parsed)) return parsed;
+    }
+    return fallback;
+  }
+
+  let panelPadding = $derived(numericOr(theme.padding, 4));
+
   function shadowStyle(color) {
     if (!color || color === "#00000000") return "none";
     return `0 1px 2px ${color}`;
@@ -134,7 +145,7 @@
       <div class="canvas-wrapper">
         <div
           class="mock-horizontal"
-          style="background-color:{theme.back_color}; border-color:{theme.border_color}; border-width:{theme.border_width}px; border-radius:{theme.corner_radius}px; gap:{theme.spacing}px; padding:{theme.padding}px;"
+          style="background-color:{theme.back_color}; border-color:{theme.border_color}; border-width:{theme.border_width}px; border-radius:{theme.corner_radius}px; gap:{theme.spacing}px; padding:{panelPadding}px;"
         >
           <!-- 拼音固定在候选面板左上角，模拟输入框+光标（光标位于拼音末尾） -->
           <div
@@ -225,7 +236,7 @@
       <div class="canvas-wrapper">
         <div
           class="mock-vertical"
-          style="background-color:{theme.back_color}; border-color:{theme.border_color}; border-width:{theme.border_width}px; border-radius:{theme.corner_radius}px; gap:{theme.spacing}px; padding:{theme.padding}px;"
+          style="background-color:{theme.back_color}; border-color:{theme.border_color}; border-width:{theme.border_width}px; border-radius:{theme.corner_radius}px; gap:{theme.spacing}px; padding:{panelPadding}px;"
         >
           <!-- 拼音固定在候选面板左上角，模拟输入框+光标（光标位于拼音末尾） -->
           <div
