@@ -1,0 +1,24 @@
+preset_color_schemes:
+  deep_sea:
+    name: "深海幽蓝／Deep Sea"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xc9d6ffff
+    shadow_color: 0x000000ff
+    label_color: 0x8fa3cfff
+    comment_text_color: 0x7db8d6ff
+    border_color: 0x111827ff
+    back_color: 0x0b0f19ff
+    candidate_text_color: 0xb9c7f3ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x131b2dff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x051416ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x15c8d1ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xe8feffff
+    hilited_mark_color: 0x1cffffff
+    nextpage_color: 0x8fa3cfff
+    prevpage_color: 0x7db8d6ff

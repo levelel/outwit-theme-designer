@@ -1,0 +1,24 @@
+preset_color_schemes:
+  polar_glow:
+    name: "极地微光／Polar Glow"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0x24343cff
+    shadow_color: 0x000000ff
+    label_color: 0x6f8f98ff
+    comment_text_color: 0x93aab1ff
+    border_color: 0xe8f3f6ff
+    back_color: 0xffffffff
+    candidate_text_color: 0x2f424aff
+    hilited_text_color: 0x1a2a30ff
+    hilited_back_color: 0xf0fafcff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x154b56ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x8be8ffff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xf0feffff
+    hilited_mark_color: 0x5a97a6ff
+    nextpage_color: 0x6f8f98ff
+    prevpage_color: 0x93aab1ff

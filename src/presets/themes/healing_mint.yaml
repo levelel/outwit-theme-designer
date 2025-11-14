@@ -1,0 +1,24 @@
+preset_color_schemes:
+  healing_mint:
+    name: "薄荷清愈／Healing Mint"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0x2b4c40ff
+    shadow_color: 0x000000ff
+    label_color: 0x5d8e7bff
+    comment_text_color: 0x7fb6a3ff
+    border_color: 0xcdefe3ff
+    back_color: 0xf3fff9ff
+    candidate_text_color: 0x3e6a5aff
+    hilited_text_color: 0x1d3b31ff
+    hilited_back_color: 0xd9f7ecff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x2d4d41ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x8ee5c5ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xe0fff1ff
+    hilited_comment_text_color: 0xf2fff9ff
+    hilited_mark_color: 0x5c9580ff
+    nextpage_color: 0x5d8e7bff
+    prevpage_color: 0x7fb6a3ff

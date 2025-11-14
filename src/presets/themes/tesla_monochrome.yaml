@@ -1,0 +1,24 @@
+preset_color_schemes:
+  tesla_monochrome:
+    name: "特斯拉单色／Tesla Monochrome"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xeaeaeaff
+    shadow_color: 0x00000000
+    label_color: 0xb8b8b8ff
+    comment_text_color: 0x959595ff
+    border_color: 0x1a1a1bff
+    back_color: 0x0f0f10ff
+    candidate_text_color: 0xeaeaeaff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x181819ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x140406ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0xc41f27ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xffeceeff
+    hilited_mark_color: 0xff2a35ff
+    nextpage_color: 0xb8b8b8ff
+    prevpage_color: 0x959595ff

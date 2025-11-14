@@ -1,0 +1,24 @@
+preset_color_schemes:
+  playstation_blue:
+    name: "PlayStation 蓝／PlayStation Blue"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xe6ebf7ff
+    shadow_color: 0x000000ff
+    label_color: 0x9fb4d8ff
+    comment_text_color: 0x7f96bfff
+    border_color: 0x182038ff
+    back_color: 0x121a2eff
+    candidate_text_color: 0xd6def0ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x16213aff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0xe6f1ffff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x003791ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xeaf3ffff
+    hilited_mark_color: 0x004ac4ff
+    nextpage_color: 0x9fb4d8ff
+    prevpage_color: 0x7f96bfff

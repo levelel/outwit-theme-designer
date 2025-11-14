@@ -1,0 +1,24 @@
+preset_color_schemes:
+  solar_ember:
+    name: "流火残阳／Solar Ember"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xf6e6e0ff
+    shadow_color: 0x000000ff
+    label_color: 0xc9ae9fff
+    comment_text_color: 0xb89280ff
+    border_color: 0x2a1c18ff
+    back_color: 0x211916ff
+    candidate_text_color: 0xe8d4c8ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x281e1aff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x42180bff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0xff6b3dff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffbdbdff
+    hilited_comment_text_color: 0xfbc8b6ff
+    hilited_mark_color: 0xff9052ff
+    nextpage_color: 0xc9ae9fff
+    prevpage_color: 0xb89280ff

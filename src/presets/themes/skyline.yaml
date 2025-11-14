@@ -1,0 +1,26 @@
+preset_color_schemes:
+  skyline:
+    name: "云端天际／Skyline"
+    author: "几维输入法"
+    color_format: rgba
+
+    back_color: 0xffffffff
+    border_color: 0xdeebfbff
+    text_color: 0x213654ff
+    label_color: 0x6a88afff
+    comment_text_color: 0x97abc5ff
+    shadow_color: 0x000000ff
+
+    candidate_text_color: 0x2b4469ff
+    candidate_border_color: 0xffffffff
+
+    hilited_back_color: 0xe8f2ffff
+    hilited_text_color: 0x1a2d49ff
+    hilited_candidate_back_color: 0x62b1ffff
+    hilited_candidate_text_color: 0x091522ff
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xeaf5ffff
+    hilited_mark_color: 0x84efffff
+
+    nextpage_color: 0x6a88afff
+    prevpage_color: 0x97abc5ff

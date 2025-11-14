@@ -1,0 +1,24 @@
+preset_color_schemes:
+  ruby_brush:
+    name: "朱砂入墨／Ruby Brush"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xede3e3ff
+    shadow_color: 0x000000ff
+    label_color: 0xc1a9a9ff
+    comment_text_color: 0x9a8181ff
+    border_color: 0x1c1617ff
+    back_color: 0x171314ff
+    candidate_text_color: 0xdfd0d0ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x1e1819ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x140808ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0xd0453aff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffbdbdff
+    hilited_comment_text_color: 0xffc0b8ff
+    hilited_mark_color: 0xff5d4eff
+    nextpage_color: 0xc1a9a9ff
+    prevpage_color: 0x9a8181ff

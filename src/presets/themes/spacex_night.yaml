@@ -1,0 +1,24 @@
+preset_color_schemes:
+  spacex_night:
+    name: "苍穹夜航／SpaceX Night"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xdde7f0ff
+    shadow_color: 0x000000ff
+    label_color: 0x9fb2c6ff
+    comment_text_color: 0x7fa0bfff
+    border_color: 0x131a22ff
+    back_color: 0x0f151dff
+    candidate_text_color: 0xcbd6e1ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x131b25ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x001018ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x18a0fbff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xeaf6ffff
+    hilited_mark_color: 0x20d8ffff
+    nextpage_color: 0x9fb2c6ff
+    prevpage_color: 0x7fa0bfff

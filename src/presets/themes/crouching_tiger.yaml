@@ -1,0 +1,24 @@
+preset_color_schemes:
+  crouching_tiger:
+    name: "卧虎藏龙／Crouching Tiger"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xe7f1e9ff
+    shadow_color: 0x000000ff
+    label_color: 0xc6b58fff
+    comment_text_color: 0x9faf9bff
+    border_color: 0x182720ff
+    back_color: 0x12201bff
+    candidate_text_color: 0xd7e7deff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x16261fff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x0a1811ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x2aa670ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xeefdf5ff
+    hilited_mark_color: 0x39e097ff
+    nextpage_color: 0xc6b58fff
+    prevpage_color: 0x9faf9bff

@@ -1,0 +1,24 @@
+preset_color_schemes:
+  neon_youth:
+    name: "霓虹青春／Neon Youth"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xffffffff
+    shadow_color: 0x000000ff
+    label_color: 0x9aa0a6ff
+    comment_text_color: 0x8ab4f8ff
+    border_color: 0x232323ff
+    back_color: 0x1e1e24ff
+    candidate_text_color: 0xe8e8e8ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x27272fff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0xe3e3e3ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0xff3ea5ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xcfcfcfff
+    hilited_comment_text_color: 0xe8d4deff
+    hilited_mark_color: 0xff54dfff
+    nextpage_color: 0xff3ea5ff
+    prevpage_color: 0x8ab4f8ff

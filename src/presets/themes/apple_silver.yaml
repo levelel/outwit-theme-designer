@@ -1,0 +1,24 @@
+preset_color_schemes:
+  apple_silver:
+    name: "苹果银辉／Apple Silver"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0x1f2937ff
+    shadow_color: 0x000000ff
+    label_color: 0x6b7280ff
+    comment_text_color: 0x9ca3afff
+    border_color: 0xe5e7ebff
+    back_color: 0xf9fafbff
+    candidate_text_color: 0x374151ff
+    hilited_text_color: 0x1f2937ff
+    hilited_back_color: 0xeaf2ffff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0xffffffff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x007affff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xeaf2ffff
+    hilited_mark_color: 0x00a5ffff
+    nextpage_color: 0xccccccff
+    prevpage_color: 0xccccccff

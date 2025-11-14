@@ -1,0 +1,24 @@
+preset_color_schemes:
+  forbidden_city:
+    name: "紫禁城／Forbidden City"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xf3e7deff
+    shadow_color: 0x000000ff
+    label_color: 0xd4b470ff
+    comment_text_color: 0x9f8c7cff
+    border_color: 0x241815ff
+    back_color: 0x1f1513ff
+    candidate_text_color: 0xe6d8ceff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x261a17ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0xe6d9d1ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x8a1a1aff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0x9e9e9eff
+    hilited_comment_text_color: 0xcec2bbff
+    hilited_mark_color: 0xba2323ff
+    nextpage_color: 0xd4b470ff
+    prevpage_color: 0x9f8c7cff

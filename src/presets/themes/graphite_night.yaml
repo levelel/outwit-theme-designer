@@ -1,0 +1,24 @@
+preset_color_schemes:
+  graphite_night:
+    name: "石墨夜色／Graphite Night"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xddddddff
+    shadow_color: 0x000000ff
+    label_color: 0x9e9e9eff
+    comment_text_color: 0x7a7a7aff
+    border_color: 0x1f1f1fff
+    back_color: 0x121212ff
+    candidate_text_color: 0xbdbdbdff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x1e1e1eff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x00130eff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x1cb68aff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xdffbf2ff
+    hilited_mark_color: 0x26f6baff
+    nextpage_color: 0x9e9e9eff
+    prevpage_color: 0x7a7a7aff

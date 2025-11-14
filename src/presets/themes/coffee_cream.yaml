@@ -1,0 +1,24 @@
+preset_color_schemes:
+  coffee_cream:
+    name: "咖啡奶昔／Coffee Cream"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0x473a30ff
+    shadow_color: 0x00000000
+    label_color: 0x8c7766ff
+    comment_text_color: 0xb39c8aff
+    border_color: 0xe9ded2ff
+    back_color: 0xffffffff
+    candidate_text_color: 0x5a4632ff
+    hilited_text_color: 0x3b2f26ff
+    hilited_back_color: 0xf5ece2ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x1e1209ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0xd0a178ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xfff3e8ff
+    hilited_mark_color: 0xffd9a2ff
+    nextpage_color: 0xccccccff
+    prevpage_color: 0xccccccff

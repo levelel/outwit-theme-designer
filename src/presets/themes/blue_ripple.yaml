@@ -1,0 +1,24 @@
+preset_color_schemes:
+  blue_ripple:
+    name: "碧波涟漪／Blue Ripple"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0x1f2a44ff
+    shadow_color: 0x000000ff
+    label_color: 0x6b86b2ff
+    comment_text_color: 0x8fa9cfff
+    border_color: 0xd6e4f5ff
+    back_color: 0xf5f9ffff
+    candidate_text_color: 0x2b3b5aff
+    hilited_text_color: 0x1f2a44ff
+    hilited_back_color: 0xdceaffff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0xffffffff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x2b8cffff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xeaf2ffff
+    hilited_mark_color: 0x3abdffff
+    nextpage_color: 0x2b8cffff
+    prevpage_color: 0x6b86b2ff

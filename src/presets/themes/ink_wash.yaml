@@ -1,0 +1,24 @@
+preset_color_schemes:
+  ink_wash:
+    name: "水墨丹青／Ink Wash"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xe6e6e6ff
+    shadow_color: 0x000000ff
+    label_color: 0xa0a0a0ff
+    comment_text_color: 0x7f7f7fff
+    border_color: 0x1a1a1bff
+    back_color: 0x111112ff
+    candidate_text_color: 0xd8d8d8ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x1a1b1cff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x0a0a0aff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x6e6e6eff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xf0f0f0e6
+    hilited_mark_color: 0x959595ff
+    nextpage_color: 0xa0a0a0ff
+    prevpage_color: 0x7f7f7fff

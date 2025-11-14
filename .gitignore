@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.svelte-kit/
+.DS_Store
+*.log
+*.local
+.env
+.env.*
+coverage/
+.husky/
+.vscode/
+.idea/
+*.tgz
+Thumbs.db
+

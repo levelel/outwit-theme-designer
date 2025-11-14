@@ -1,0 +1,26 @@
+preset_color_schemes:
+  sunlit_sand:
+    name: "曦砂／Sunlit Sand"
+    author: "几维输入法"
+    color_format: rgba
+
+    back_color: 0xfffcf7ff
+    border_color: 0xf1e2cfff
+    text_color: 0x5a4632ff
+    label_color: 0x8e745aff
+    comment_text_color: 0xb39b86ff
+    shadow_color: 0x00000000
+
+    candidate_text_color: 0x5a4632ff
+    candidate_border_color: 0xfffcf7ff
+
+    hilited_back_color: 0xfff2e1ff
+    hilited_text_color: 0x4a3a2aff
+    hilited_candidate_back_color: 0xffb44dff
+    hilited_candidate_text_color: 0x2a1c10ff
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xfff4e9ff
+    hilited_mark_color: 0xa67532ff
+
+    nextpage_color: 0x8e745aff
+    prevpage_color: 0xb39b86ff

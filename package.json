@@ -1,0 +1,30 @@
+{
+  "name": "outwit-theme-designer",
+  "private": false,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "@sveltejs/vite-plugin-svelte": "^4.0.0",
+    "@tsconfig/svelte": "^5.0.5",
+    "@types/node": "^24.3.0",
+    "eslint": "^9.32.0",
+    "globals": "^16.3.0",
+    "svelte": "^5.0.0",
+    "svelte-check": "^4.3.1",
+    "tslib": "^2.8.1",
+    "typescript": "^5.9.2",
+    "vite": "^5.4.0"
+  }
+}
+
+

@@ -1,0 +1,24 @@
+preset_color_schemes:
+  teenage_engineering:
+    name: "Teenage Engineering"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xc0c0c0ff
+    shadow_color: 0x00000080
+    label_color: 0x909090ff
+    comment_text_color: 0x707070ff
+    border_color: 0x404040ff
+    back_color: 0x2a2a2aff
+    candidate_text_color: 0xb8b8b8ff
+    hilited_text_color: 0x1a1a1aff
+    hilited_back_color: 0x353535ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x1a1a1aff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0xe6e6e6ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0x404040ff
+    hilited_comment_text_color: 0x606060ff
+    hilited_mark_color: 0xff8c00ff
+    nextpage_color: 0x909090ff
+    prevpage_color: 0x707070ff

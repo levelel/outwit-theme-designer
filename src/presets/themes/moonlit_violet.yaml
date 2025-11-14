@@ -1,0 +1,24 @@
+preset_color_schemes:
+  moonlit_violet:
+    name: "月夜紫罗兰／Moonlit Violet"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xe8e6f4ff
+    shadow_color: 0x000000ff
+    label_color: 0xa8a1c6ff
+    comment_text_color: 0x8f87b3ff
+    border_color: 0x241f33ff
+    back_color: 0x1e1a2aff
+    candidate_text_color: 0xcfcbe4ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x241f33ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0xffffffff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x7c5cffff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xd1d1d1ff
+    hilited_comment_text_color: 0xe3ddf3ff
+    hilited_mark_color: 0xa77cffff
+    nextpage_color: 0xa8a1c6ff
+    prevpage_color: 0x8f87b3ff

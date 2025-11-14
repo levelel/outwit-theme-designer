@@ -1,0 +1,24 @@
+preset_color_schemes:
+  amber_tea:
+    name: "琥珀茶韵／Amber Tea"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xefe6d7ff
+    shadow_color: 0x000000ff
+    label_color: 0xc1b39fff
+    comment_text_color: 0x9e8d77ff
+    border_color: 0x1d1812ff
+    back_color: 0x14110dff
+    candidate_text_color: 0xe8dcc8ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x1f1a13ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x130f09ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0xd4a756ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xfff3e0ff
+    hilited_mark_color: 0xffe174ff
+    nextpage_color: 0xccccccff
+    prevpage_color: 0xccccccff

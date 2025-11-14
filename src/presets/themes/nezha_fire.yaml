@@ -1,0 +1,24 @@
+preset_color_schemes:
+  nezha_fire:
+    name: "哪吒烈火／Nezha Fire"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xf6e6e0ff
+    shadow_color: 0x000000ff
+    label_color: 0xd3b59fff
+    comment_text_color: 0xb79380ff
+    border_color: 0x231511ff
+    back_color: 0x1e1411ff
+    candidate_text_color: 0xe8d4c8ff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x241813ff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0xffe8e2ff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0xf03d24ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0xdededeff
+    hilited_comment_text_color: 0xcfbab5ff
+    hilited_mark_color: 0xff5231ff
+    nextpage_color: 0xd3b59fff
+    prevpage_color: 0xb79380ff

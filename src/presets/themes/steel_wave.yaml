@@ -1,0 +1,26 @@
+preset_color_schemes:
+  steel_wave:
+    name: "钢蓝浪／Steel Wave"
+    author: "几维输入法"
+    color_format: rgba
+
+    back_color: 0x202a34ff
+    border_color: 0x24303aff
+    text_color: 0xdde7efff
+    label_color: 0x9bb1c4ff
+    comment_text_color: 0x8297aaff
+    shadow_color: 0x000000ff
+
+    candidate_text_color: 0xc8d4e8ff
+    candidate_border_color: 0x202a34ff
+
+    hilited_back_color: 0x26323eff
+    hilited_text_color: 0xffffffff
+    hilited_candidate_back_color: 0x3b7cadff
+    hilited_candidate_text_color: 0x0c1620ff
+    hilited_label_color: 0xffffffff
+    hilited_comment_text_color: 0xe6f3ffff
+    hilited_mark_color: 0x50a7eaff
+
+    nextpage_color: 0x9bb1c4ff
+    prevpage_color: 0x8297aaff

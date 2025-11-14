@@ -1,0 +1,24 @@
+preset_color_schemes:
+  neon_future:
+    name: "霓虹未来／Neon Future"
+    author: "几维输入法"
+    color_format: rgba
+    text_color: 0xb0e3ffff
+    shadow_color: 0x000000ff
+    label_color: 0x6ea6c9ff
+    comment_text_color: 0x87f5ffff
+    border_color: 0x11202aff
+    back_color: 0x0f171fff
+    candidate_text_color: 0x9ad1ffff
+    hilited_text_color: 0xffffffff
+    hilited_back_color: 0x14212cff
+    hilited_shadow_color: 0x00000000
+    hilited_candidate_text_color: 0x01232dff
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_back_color: 0x00ffd1ff
+    hilited_candidate_shadow_color: 0x00000000
+    hilited_label_color: 0x02556eff
+    hilited_comment_text_color: 0x044053ff
+    hilited_mark_color: 0x00a688ff
+    nextpage_color: 0x6ea6c9ff
+    prevpage_color: 0x87f5ffff
