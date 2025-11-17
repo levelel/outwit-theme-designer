@@ -5,6 +5,7 @@
 <h1 align="center">几维输入法主题设计工具</h1>
 
 本项目源自几维输入法（Outwit IME）的主题编辑器。它聚焦颜色定制与实时预览，预置了几维输入法官方主题库，并可导出符合 Rime / 几维输入法规范的 YAML 主题文件，方便分享与跨平台使用。
+已托管在 Vite 静态站点，可通过国内 <https://designer.outwitapp.com> 与海外 <https://designer.outwit.app> 两个入口访问。
 
 ![screenshot1](public/screenshots/theme-designer-blue-ripple.png)
 ![screenshot4](public/screenshots/theme-designer-nezha-fire.png)
@@ -20,7 +21,6 @@
 - **官方主题集合**：内置 `@themes` 目录中的 35+ 套 Outwit 官方配色，可直接对比参考。
 - **极简工作流**：支持主题标识 (color_scheme) 与显示名称编辑，不包含任何本地文件写入逻辑。
 - **一键导出**：生成标准 `preset_color_schemes` 结构的 YAML 文件，可直接用于几维输入法或任意 Rime 前端。
-- **多端部署**：主题设计器托管在 Vite 静态站点，可通过国内 <https://designer.outwitapp.com> 与海外 <https://designer.outwit.app> 两个入口访问。
 
 ## 快速开始
 ```bash
@@ -40,7 +40,7 @@ npm run build
 2. 修改主题标识 (color_scheme) 与显示名称，确保导出文件命名清晰。
 3. 使用颜色面板调节候选词、高亮状态、面板背景等颜色；支持透明度输入与十六进制编辑。
 4. 点击「导出配置」即可下载 YAML 文件，包含 `preset_color_schemes` 定义，可直接复制到 Rime 或 Outwit 配置中。
-5. 将导出的片段合并到对应输入法的用户定制文件：Outwit 用户在「用户目录」找到 `themes` 目录，把生成的文件放到这个文件夹下。然后在找到 `outwit.custom.yaml`，将导出的 `preset_color_schemes` 片段合入后重新部署。或者在设置界面中选择导入的主题后保存并部署。小狼毫使用 `weasel.custom.yaml`，鼠须管使用 `squirrel.custom.yaml`，然后重新部署即可生效。若需更详细的外观 patch 说明，可参考 Rime 官方定制指南（https://github.com/rime/home/wiki/CustomizationGuide#%E5%B0%8F%E7%8B%BC%E6%AF%AB%E5%A4%96%E8%A7%80%E8%A8%AD%E5%AE%9A）。
+5. 将导出的片段合并到对应输入法的用户定制文件：Outwit 用户在「用户目录」找到 `themes` 目录，把生成的文件放到这个文件夹下。然后在找到 `outwit.custom.yaml`，将导出的 `preset_color_schemes` 片段合入后重新部署。或者在设置界面中选择导入的主题后保存并部署。小狼毫使用 `weasel.custom.yaml`，鼠须管使用 `squirrel.custom.yaml`，然后重新部署即可生效。若需更详细的外观 patch 说明，可参考 [Rime 官方定制指南](https://github.com/rime/home/wiki/CustomizationGuide#%E5%B0%8F%E7%8B%BC%E6%AF%AB%E5%A4%96%E8%A7%80%E8%A8%AD%E5%AE%9A)。
 
 ## 输出文件规范
 导出的文件默认命名为 `<color_scheme>.yaml`，核心结构示例：
