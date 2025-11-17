@@ -2,13 +2,17 @@
   <img src="./public/logo-circling.svg" alt="Outwit Logo" width="120" />
 </p>
 
-<h1 align="center">几维 Outwit 输入法主题设计工具</h1>
+<h1 align="center">几维输入法主题设计工具</h1>
 
-几维 Outwit 输入法主题设计工具源自几维输入法 (Outwit) 的主题编辑器。它聚焦颜色定制与实时预览，预置了官方主题库，并可导出符合 Rime / Outwit 规范的 YAML 主题文件，方便分享与跨平台使用。
+本项目源自几维输入法（Outwit IME）的主题编辑器。它聚焦颜色定制与实时预览，预置了几维输入法官方主题库，并可导出符合 Rime / 几维输入法规范的 YAML 主题文件，方便分享与跨平台使用。
 
-# 几维项目 
+![screenshot1](public/screenshots/theme-designer-blue-ripple.png)
+![screenshot4](public/screenshots/theme-designer-nezha-fire.png)
+![screenshot5](public/screenshots/theme-list-dropdown.png)
 
-- [开源项目首页](https://github.com/levelel/outwit-project-index)
+## 几维项目 
+
+- [几维开源项目首页](https://github.com/levelel/outwit-project-index)
 
 
 ## 功能特性
