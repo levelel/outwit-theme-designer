@@ -101,4 +101,12 @@ outwit-theme-designer/
 - 所有为开源输入法生态贡献的开发者与社区成员
 
 ## 许可证
-CC-BY 4.0
+
+本项目采用双重许可证：
+
+- **代码部分**（包括但不限于 `.svelte`、`.ts`、`.js` 等源代码文件）：采用 [GNU General Public License v3.0 (GPL-3.0)](LICENSE)
+- **主题文件**（位于 `src/presets/themes/*.yaml`）：采用 [Creative Commons Attribution 4.0 International (CC-BY-4.0)](LICENSE-THEMES)
+
+这意味着：
+- 你可以自由使用、修改和分发代码，但必须遵循 GPL-3.0 的要求（包括开源衍生作品）
+- 主题文件可以更自由地使用和分享，只需保留署名即可
